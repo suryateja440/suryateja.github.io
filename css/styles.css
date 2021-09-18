@@ -56,7 +56,7 @@
 }
 
 #projects img, #experience img {
-    border-radius: 50%;
+    /* border-radius: 50%; */
     height: 50px;
     width: 50px;
     margin-right: 10px;
