@@ -11,10 +11,12 @@ body {
   color: #eee;
 }
 .containerTyping {
-  height: 100vh;
+  height: 6vh;
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
+  margin-left: -10px;
+  margin-bottom: 8px;
 }
 .containerTyping p {
   font-size: 3rem;
