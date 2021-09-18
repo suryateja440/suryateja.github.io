@@ -54,11 +54,25 @@
 *::after {
     box-sizing: border-box;
 }
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
 
 #projects img, #experience img {
     /* border-radius: 50%; */
-    height: 50px;
-    width: 50px;
+    height: 45px;
+    width: 126px;
     margin-right: 10px;
     margin-top: 10px;
 }
