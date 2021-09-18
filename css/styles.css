@@ -55,6 +55,13 @@
     box-sizing: border-box;
 }
 
+#projects img, #experience img {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+}
+
 html {
     font-family: sans-serif;
     line-height: 1.15;
