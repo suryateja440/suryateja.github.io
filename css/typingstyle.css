@@ -16,7 +16,7 @@ body {
   /* justify-content: center; */
   align-items: center;
   margin-left: -10px;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 .containerTyping p {
   font-size: 3rem;
@@ -28,7 +28,7 @@ body {
 }
 .containerTyping p span.typed-text {
   font-weight: normal;
-  color: #dd7732;
+  color: #20C997;
 }
 .containerTyping p span.cursor {
   display: inline-block;
