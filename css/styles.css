@@ -75,6 +75,9 @@ dl, ol, ul {
     font-family: "Font Awesome 5 Free";
 }
 
+.featureIcon {
+    color:#20C997;
+}
 .fa-li {
     left: -2em;
     position: absolute;
