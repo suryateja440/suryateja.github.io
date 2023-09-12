@@ -10259,6 +10259,10 @@ button.bg-dark:focus {
     color: var(--primary) !important;
 }
 
+.text-technologies {
+    color: #818d89 !important;
+}
+
 a.text-primary:hover,
 a.text-primary:focus {
     color: var(--primary-hover) !important;
@@ -10602,4 +10606,14 @@ section.resume-section .resume-section-content {
         padding-top: 5rem;
         padding-bottom: 5rem;
     }
+}
+
+.technologyImg {
+
+    height: 35px;
+    width: 39px;
+    margin-right: -1px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+
 }
